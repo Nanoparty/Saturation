@@ -7,8 +7,8 @@ Available now on GooglePlay @ https://play.google.com/store/apps/details?id=com.
 
 
 ![screenshot](https://github.com/Nanoparty/Saturation/blob/master/menu.png)
-![screenshot](https://github.com/Nanoparty/Saturation/blob/master/menu.png)
 ![screenshot](https://github.com/Nanoparty/Saturation/blob/master/difficulty.png)
+![screenshot](https://github.com/Nanoparty/Saturation/blob/master/1.png)
 ![screenshot](https://github.com/Nanoparty/Saturation/blob/master/2.png)
 ![screenshot](https://github.com/Nanoparty/Saturation/blob/master/3.png)
 ![screenshot](https://github.com/Nanoparty/Saturation/blob/master/4.png)
